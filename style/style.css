@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.content {
+    width: 50%;
+    border: 1px solid black;
+    padding: 12px;
+
+}
+
+.username, .message {
+  display: inline-block;
+}
+
+.timestamp {
+  text-align: right;
+}
