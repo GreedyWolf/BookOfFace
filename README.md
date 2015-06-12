@@ -22,6 +22,8 @@ Requirements
 - [ ] Fetch messages from server every 5 seconds
 - [ ] Show contextual time using Moment.js
 - [ ] Make it look nice. Experiment with $.animate, $.fadeIn, $.fadeOut, CSS flex bos, and CSS keyframe.
+- [ ] Create your own account at parsecom and use your own URL
+- [ ] Create a way to delete existing post
 
 
 Getting Started
